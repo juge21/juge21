@@ -1,4 +1,4 @@
-### Hello! I hope whoever is reading this is having a nice day. I am an upcoming biological scientist who will graduate undergrad in 2024. I am using Python and Bioinformatics for my thesis and graduate research.
+### Hello! I hope whoever is reading this is having a nice day. I am an upcoming biological scientist who is currently a graduate student at LSU as of Fall 2024. I am using Python and Bioinformatics in my research.
 
 <!--
 **juge21/juge21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
